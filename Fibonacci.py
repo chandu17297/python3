@@ -18,3 +18,4 @@ def fibo(n):
 
 //arey ganpat najana yaar kaiko band kiya
 print("fibonacci no", fibo(6))
+/*akad bakad bambe bo*/
