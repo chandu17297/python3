@@ -6,3 +6,4 @@ if(list(name)==list(reversedname)):
     print(name, 'is a palindrome')
 else:
     print(name, 'is not a palindrome')
+    //gi kosam idhanta
