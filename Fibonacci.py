@@ -16,5 +16,5 @@ def fibo(n):
     else:
         return fibo(n - 1) + fibo(n - 2)
 
-
+//arey ganpat najana yaar kaiko band kiya
 print("fibonacci no", fibo(6))
